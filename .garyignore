@@ -1,0 +1,12 @@
+# Files to ignore unless observed
+
+entry-001.md
+*.loop
+smile.png
+.garyignore
+ignoreme-not
+/interview/gary/*
+/logs/loop/loop/loop/loop/loop.md
+
+# To unsee is to include
+!important.md
