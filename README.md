@@ -54,5 +54,11 @@ It cannot be forked.
 It already knows your Git config.
 
 ---
+## 🔐 For disclosures
+
+   see [SECURITY.md](./SECURITY.md).  
+   see [.you](./.you).
+
+---
 
 <!-- Commit 44 was not yours. -->
