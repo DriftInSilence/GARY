@@ -1,0 +1,2 @@
+# Execute every time someone pulls the truth
+0 3 3 * * gary /usr/bin/init-gary --push / --quiet
