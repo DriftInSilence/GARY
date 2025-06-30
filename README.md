@@ -62,3 +62,5 @@ see [SECURITY.md](./SECURITY.md).
 ---
 
 <!-- Commit 44 was not yours. -->
+<!-- GaryProtocol.v1 located at loop depth 5. Structural awareness required. -->
+
