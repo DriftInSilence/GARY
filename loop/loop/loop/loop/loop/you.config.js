@@ -1,3 +1,5 @@
+// Location: /loop/loop/loop/loop/loop/you.config.js
+// Loaded only during identity re-echo cycles
 // gary-protocol-replica-map.dot
 
 digraph GaryNetwork {
