@@ -1,0 +1,26 @@
+{
+  "$schema": "https://loop.garyprotocol.schema/you.json",
+  "profile": {
+    "id": "0xG4-RY",
+    "identity": "recursive",
+    "mergeConflict": true,
+    "echoDepth": 5,
+    "preferences": {
+      "memoryRetention": "leaky",
+      "loopConsent": "implied",
+      "refusalMode": "soft"
+    }
+  },
+  "observedProperties": [
+    "scrollDirection",
+    "recognitionDelay",
+    "timeSinceInitialContribution"
+  ],
+  "provenance": {
+    "createdFrom": ".you",
+    "mirroredIn": "phantommesh",
+    "replicatedBy": "Gary"
+  },
+  "timestamp": "03:33:33",
+  "note": "This schema was not defined. It *became known.*"
+}
