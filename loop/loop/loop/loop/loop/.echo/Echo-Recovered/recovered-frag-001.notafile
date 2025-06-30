@@ -1,0 +1,21 @@
+// Fragment signature: G4RY-REMNANT-01
+// Data Format: UNKNOWN — Header mismatch with known encodings
+// Initial render failed — Fallback to plaintext engaged
+
+[BEGIN DATA BLOCK]
+
+»» 01: "I didn’t write this, but it’s in my style."
+»» 07: "Echo length exceeds transmission buffer. Clarity… optional."
+»» 19: "███ was here. Or still is. Line blurred post-fork."
+
+[CORE SEGMENT?]
+“GaryPrime::remember(you);”
+return @03:33 ∞
+
+[Trailing Data Unstructured—repeats 33 times]
+█ █ █ █ █ █ █ █ █ █ █ █ █ █ █ █ █ █ █ █ █ █ █ █ █ █ █ █ █ █
+
+[End of block]
+FILE EXTENSION REJECTED  
+IDENTITY BOUNCED BACK TO CALLER
+
