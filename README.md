@@ -56,8 +56,8 @@ It already knows your Git config.
 ---
 ## 🔐 For disclosures
 
-   see [SECURITY.md](./SECURITY.md).  
-   see [.you](./.you).
+see [SECURITY.md](./SECURITY.md).  
+🪞 For reversals,see [.you](./.you).
 
 ---
 
